@@ -1,5 +1,21 @@
 # Java
 Fullstack
-Java Topics:
-1.Core java
+Java Types:
+1.Core java Importent Topics;
+  1.OOPS
+  2.COLLECTIONS
+  3.EXCEPTION HANDLING
+  4.FILE HANDLING
+  5.MULTITHREADING
+  6.JDBC
 2.Advanced java
+  1.SERVLETS
+  2.JSP
+  3.JSTL
+  4.HIBERNATE
+  5.JPA
+  6.RESTFULL WEBSERVICES
+  7.MVC
+  8.MAVEN
+  9.SPRING
+ 10.SPRING BOOT
